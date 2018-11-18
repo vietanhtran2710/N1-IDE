@@ -1,0 +1,11 @@
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\bin\Debug\N1 IDE.exe.config
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\bin\Debug\N1 IDE.exe
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\bin\Debug\N1 IDE.pdb
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1 IDE.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1_IDE.Form1.resources
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1_IDE.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1 IDE.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1 IDE.exe
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1 IDE.pdb
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1_IDE.About.resources
+E:\Visual Studio 2015\Projects\N1 IDE\N1 IDE\obj\Debug\N1_IDE.Customize.resources

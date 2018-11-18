@@ -1,0 +1,14 @@
+for
+if
+while
+do
+else
+int
+float
+string
+char
+bool
+case
+break
+continue
+default
